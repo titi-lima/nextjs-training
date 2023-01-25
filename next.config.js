@@ -8,5 +8,5 @@ module.exports = withPWA({
     disable: !isProd
   },
   esModule: true,
-  pageExtensions: ['tsx', 'ts', 'js']
+  pageExtensions: ['tsx']
 });
